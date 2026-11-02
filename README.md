@@ -115,7 +115,7 @@ Data cleaning and validation, business-rule checking, Excel Tables and condition
 
 ## Author
 
-<Rohini Wagh> 
+Rohini Wagh
 <LinkedIn : www.linkedin.com/in/rohinii-wagh>
 <Email : rohiniw0506@gmail.com>
 <Portfolio : https://codebasics.io/portfolio/Rohini-Wagh>
