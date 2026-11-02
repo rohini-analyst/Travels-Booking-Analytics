@@ -113,9 +113,10 @@ Full reasoning for every step is in `powerbi/PowerBI_Step_by_Step_Guide.docx`.
 
 Data cleaning and validation, business-rule checking, Excel Tables and conditional aggregation, KPI design, dashboarding, Power Query (M), star-schema modelling, DAX (calculated tables, time intelligence, `USERELATIONSHIP`, `RANKX`, dynamic titles), and clear communication of assumptions and limitations.
 
-## Author
+## Project By
 
 Rohini Wagh
-<LinkedIn : www.linkedin.com/in/rohinii-wagh>
-<Email : rohiniw0506@gmail.com>
-<Portfolio : https://codebasics.io/portfolio/Rohini-Wagh>
+[LinkedIn](www.linkedin.com/in/rohinii-wagh)
+[Portfolio](https://codebasics.io/portfolio/Rohini-Wagh)
+[Email](rohiniw0506@gmail.com)
+
