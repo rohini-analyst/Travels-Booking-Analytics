@@ -1,4 +1,4 @@
-# Travel Booking Analysis (Excel + Power BI)
+# Travel Booking Analysis 
 
 An end-to-end data analysis project on 1,000 travel bookings (Jan 2024 - Mar 2025): data cleaning and validation, KPI analysis, an Excel dashboard, and a Power BI report built on a proper data model with DAX.
 
@@ -115,4 +115,7 @@ Data cleaning and validation, business-rule checking, Excel Tables and condition
 
 ## Author
 
-<your name> - <LinkedIn / email>
+<Rohini Wagh> 
+<LinkedIn : www.linkedin.com/in/rohinii-wagh>
+<Email : rohiniw0506@gmail.com>
+<Portfolio : https://codebasics.io/portfolio/Rohini-Wagh>
